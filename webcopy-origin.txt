@@ -1,0 +1,48 @@
+Uri: https://polarismenu.com/
+File Name: C:\Downloaded Web Sites\polarismenu.com\index.htm
+Content Type: text/html
+
+Uri: https://polarismenu.com/3256_intslFrogeBoost.gif
+File Name: C:\Downloaded Web Sites\polarismenu.com\3256_intslFrogeBoost.gif
+Content Type: image/gif
+
+Uri: https://polarismenu.com/4680-peeporich.gif
+File Name: C:\Downloaded Web Sites\polarismenu.com\4680-peeporich.gif
+Content Type: image/gif
+
+Uri: https://polarismenu.com/6861-luigidance.gif
+File Name: C:\Downloaded Web Sites\polarismenu.com\6861-luigidance.gif
+Content Type: image/gif
+
+Uri: https://polarismenu.com/animejs%403.0.1/lib/anime.min.js
+File Name: C:\Downloaded Web Sites\polarismenu.com\animejs@3.0.1\lib\anime.min.js
+Content Type: application/javascript
+
+Uri: https://polarismenu.com/cssb7bc?family=IBM+Plex+Sans:400,600
+File Name: C:\Downloaded Web Sites\polarismenu.com\cssb7bc
+Content Type: 
+
+Uri: https://polarismenu.com/ddddd.gif
+File Name: C:\Downloaded Web Sites\polarismenu.com\ddddd.gif
+Content Type: image/gif
+
+Uri: https://polarismenu.com/index.html
+File Name: C:\Downloaded Web Sites\polarismenu.com\index.html
+Content Type: text/html
+
+Uri: https://polarismenu.com/main.min.js
+File Name: C:\Downloaded Web Sites\polarismenu.com\main.min.js
+Content Type: application/javascript
+
+Uri: https://polarismenu.com/scrollreveal%404.0.0/dist/scrollreveal.min.js
+File Name: C:\Downloaded Web Sites\polarismenu.com\scrollreveal@4.0.0\dist\scrollreveal.min.js
+Content Type: application/javascript
+
+Uri: https://polarismenu.com/style.css
+File Name: C:\Downloaded Web Sites\polarismenu.com\style.css
+Content Type: text/css
+
+Uri: https://polarismenu.com/uwu.png
+File Name: C:\Downloaded Web Sites\polarismenu.com\uwu.png
+Content Type: image/png
+
